@@ -12,7 +12,7 @@
     <artifactId>authuser</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>authuser</name>
-    <description>authuser</description>
+    <description>Microservice AuthUser</description>
     <properties>
         <java.version>11</java.version>
     </properties>
